@@ -1,4 +1,4 @@
-#Tue Feb 26 06:01:37 IST 2019
+#Tue Feb 26 15:19:26 IST 2019
 base.0=/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/dex/release/mergeDexRelease/out
 path.1=classes2.dex
 renamed.1=classes2.dex

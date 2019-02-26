@@ -2,8 +2,16 @@ import 'package:flutter/material.dart';
 import '../widgets/drawer.dart';
 import './edit_vehicles_page.dart';
 import '../widgets/vehicle_card.dart';
+class HomePage extends StatefulWidget {
+  @override
+  HomePageState createState() {
+    return new HomePageState();
+  }
+}
 
-class HomePage extends StatelessWidget {
+class HomePageState extends State<HomePage> {
+  
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -29,7 +37,11 @@ class HomePage extends StatelessWidget {
           Container(
             margin: EdgeInsets.all(10.0),
             padding: EdgeInsets.all(10.0),
-            child: Text("Your Vehicles", textAlign: TextAlign.center,textScaleFactor: 2.0,),
+            child: Text(
+              "Your Vehicles",
+              textAlign: TextAlign.center,
+              textScaleFactor: 2.0,
+            ),
           ),
           CarCard(),
           CarCard(),

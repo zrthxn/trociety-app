@@ -1,4 +1,4 @@
-name: trociety
+name: Trociety
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -20,7 +20,8 @@ dependencies:
   firebase_core: 
   cloud_firestore: 
   firebase_auth: 
-  
+  #firebase_messaging: ^4.0.0
+
   http:
   flutter:
     sdk: flutter

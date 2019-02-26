@@ -1,11 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
 MERGED from [:firebase_auth] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:cloud_firestore] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_core] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
@@ -58,20 +57,20 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniyal/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6740947d4588b060cc7bae304f4930fd/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/21e6ea386a9061f57faca6d1f8eb73fa/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2724451372dc51ab555bb4475304909d/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
 	package
 		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:2:5-37
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-44:12
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -96,9 +95,7 @@ ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/m
 	android:name
 		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:9:22-62
 application
-ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:16:5-40:19
-MERGED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:16:5-43:19
 MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:22:5-37:19
@@ -150,7 +147,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home
 	android:name
 		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:17:9-57
 activity#com.captiosus.trociety.MainActivity
-ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:20:9-38:20
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:20:9-42:20
 	android:launchMode
 		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:22:13-43
 	android:hardwareAccelerated
@@ -179,18 +176,22 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:36:17-76
 	android:name
 		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:36:27-74
-activity#com.apptreesoftware.barcodescan.BarcodeScannerActivity
-ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:39:9-90
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:38:13-41:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:39:17-68
 	android:name
-		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:39:19-88
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:40:17-75
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:40:27-73
 uses-sdk
 INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 MERGED from [:firebase_auth] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_auth] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:cloud_firestore] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
@@ -305,14 +306,6 @@ INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/sr
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
-activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
-ADDED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
-	android:exported
-		ADDED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
-	android:theme
-		ADDED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
-	android:name
-		ADDED from [:url_launcher] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-92
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
