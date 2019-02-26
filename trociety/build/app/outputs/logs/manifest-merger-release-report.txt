@@ -1,0 +1,500 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:firebase_auth] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:cloud_firestore] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/c5c495dd0ccafb62c7d3b95a00a33f04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/c74a59436dfdbb3280fe5801f49f6237/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/fe2e5867e81cd2c4137c1ab7822d9ee8/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/5db3be3110d13b238788ed9014802931/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/bb3c9eee81afa84ad8086228b99d5d03/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/03f7403536b925a257bdac6cbebf61bb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/c024e4b8914e7196d716e55edc7d790a/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e393a00b25a22296f9dcde9b14ac2b0b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/9ac46805833c60c78ed37ed78eecf493/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/59f0055df358ab6704822f0909aab4ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/c4bc5606b0b3ea6eb9fad4afdfbcceac/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/23da46da8049971b325eefc4df6b4751/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/623468336478a00ba2092cf5c518c3a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/239bad22f317f2bc054d3b2ed9b63ae9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9a315a27a3e0dc023eb65f7de5b0a2ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/1d817affdac02bbb12bd402a7db86721/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/79d6dd7eaf15c634dc4da45b20e27f29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5b6d322848372277c95603445f78d8ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/553505579ec35192049f93e520df8b48/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e0098a9c13a6d83ce47ee32b5f3a8850/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3b50fb1bd5c318a019c5e96671d530c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0e9870eef38d0ed363db1b0728d4889d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/489f46727130867868e34070a559c2d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/502968a9e86d52298d223cbbb1163319/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fac8b0f11ff483dec59982a215636542/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/533c4d03e970eaffb2611c9cf3512c96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4283ce7de415547ac5ba93966b543f97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/af513f51512fb0eaaba50bb18c639b76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bf3a3d01c1516e931da4df5568f4d7eb/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3f356165e0787ee7c53a02a89c567cd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f603d66b1a16c05668159040f2636d33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5fd435eee46626fa9b37e1d575306eae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/5337dea2139a19137fbdf15d546d0edc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/22c21c6323c08de5314e5f295a6e2f67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6740947d4588b060cc7bae304f4930fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/21e6ea386a9061f57faca6d1f8eb73fa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2724451372dc51ab555bb4475304909d/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:9:22-62
+application
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:16:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/c74a59436dfdbb3280fe5801f49f6237/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/c74a59436dfdbb3280fe5801f49f6237/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/bb3c9eee81afa84ad8086228b99d5d03/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/bb3c9eee81afa84ad8086228b99d5d03/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/03f7403536b925a257bdac6cbebf61bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/03f7403536b925a257bdac6cbebf61bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/c024e4b8914e7196d716e55edc7d790a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/c024e4b8914e7196d716e55edc7d790a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e393a00b25a22296f9dcde9b14ac2b0b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e393a00b25a22296f9dcde9b14ac2b0b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/59f0055df358ab6704822f0909aab4ce/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/59f0055df358ab6704822f0909aab4ce/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/c4bc5606b0b3ea6eb9fad4afdfbcceac/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/c4bc5606b0b3ea6eb9fad4afdfbcceac/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/23da46da8049971b325eefc4df6b4751/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/23da46da8049971b325eefc4df6b4751/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bf3a3d01c1516e931da4df5568f4d7eb/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bf3a3d01c1516e931da4df5568f4d7eb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2724451372dc51ab555bb4475304909d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2724451372dc51ab555bb4475304909d/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:18:9-33
+	android:icon
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:17:9-57
+activity#com.captiosus.trociety.MainActivity
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:20:9-38:20
+	android:launchMode
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:24:13-137
+	android:theme
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:21:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:31:13-33:40
+	android:value
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:33:17-37
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:32:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:36:27-74
+activity#com.apptreesoftware.barcodescan.BarcodeScannerActivity
+ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:39:9-90
+	android:name
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml:39:19-88
+uses-sdk
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/c5c495dd0ccafb62c7d3b95a00a33f04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/c5c495dd0ccafb62c7d3b95a00a33f04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/c74a59436dfdbb3280fe5801f49f6237/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/c74a59436dfdbb3280fe5801f49f6237/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/fe2e5867e81cd2c4137c1ab7822d9ee8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/fe2e5867e81cd2c4137c1ab7822d9ee8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/5db3be3110d13b238788ed9014802931/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/5db3be3110d13b238788ed9014802931/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/bb3c9eee81afa84ad8086228b99d5d03/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/bb3c9eee81afa84ad8086228b99d5d03/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/03f7403536b925a257bdac6cbebf61bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/03f7403536b925a257bdac6cbebf61bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/c024e4b8914e7196d716e55edc7d790a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/c024e4b8914e7196d716e55edc7d790a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e393a00b25a22296f9dcde9b14ac2b0b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e393a00b25a22296f9dcde9b14ac2b0b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/9ac46805833c60c78ed37ed78eecf493/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/9ac46805833c60c78ed37ed78eecf493/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/59f0055df358ab6704822f0909aab4ce/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/59f0055df358ab6704822f0909aab4ce/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/c4bc5606b0b3ea6eb9fad4afdfbcceac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/c4bc5606b0b3ea6eb9fad4afdfbcceac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/23da46da8049971b325eefc4df6b4751/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/23da46da8049971b325eefc4df6b4751/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/623468336478a00ba2092cf5c518c3a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/623468336478a00ba2092cf5c518c3a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/239bad22f317f2bc054d3b2ed9b63ae9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/239bad22f317f2bc054d3b2ed9b63ae9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9a315a27a3e0dc023eb65f7de5b0a2ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9a315a27a3e0dc023eb65f7de5b0a2ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/1d817affdac02bbb12bd402a7db86721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/1d817affdac02bbb12bd402a7db86721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/79d6dd7eaf15c634dc4da45b20e27f29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/79d6dd7eaf15c634dc4da45b20e27f29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5b6d322848372277c95603445f78d8ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5b6d322848372277c95603445f78d8ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/553505579ec35192049f93e520df8b48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/553505579ec35192049f93e520df8b48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e0098a9c13a6d83ce47ee32b5f3a8850/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e0098a9c13a6d83ce47ee32b5f3a8850/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3b50fb1bd5c318a019c5e96671d530c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3b50fb1bd5c318a019c5e96671d530c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0e9870eef38d0ed363db1b0728d4889d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0e9870eef38d0ed363db1b0728d4889d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/489f46727130867868e34070a559c2d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/489f46727130867868e34070a559c2d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/502968a9e86d52298d223cbbb1163319/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/502968a9e86d52298d223cbbb1163319/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fac8b0f11ff483dec59982a215636542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fac8b0f11ff483dec59982a215636542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/533c4d03e970eaffb2611c9cf3512c96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/533c4d03e970eaffb2611c9cf3512c96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4283ce7de415547ac5ba93966b543f97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4283ce7de415547ac5ba93966b543f97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/af513f51512fb0eaaba50bb18c639b76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/af513f51512fb0eaaba50bb18c639b76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bf3a3d01c1516e931da4df5568f4d7eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bf3a3d01c1516e931da4df5568f4d7eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3f356165e0787ee7c53a02a89c567cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3f356165e0787ee7c53a02a89c567cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f603d66b1a16c05668159040f2636d33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f603d66b1a16c05668159040f2636d33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5fd435eee46626fa9b37e1d575306eae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5fd435eee46626fa9b37e1d575306eae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/5337dea2139a19137fbdf15d546d0edc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/5337dea2139a19137fbdf15d546d0edc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/22c21c6323c08de5314e5f295a6e2f67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/22c21c6323c08de5314e5f295a6e2f67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6740947d4588b060cc7bae304f4930fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6740947d4588b060cc7bae304f4930fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/21e6ea386a9061f57faca6d1f8eb73fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/21e6ea386a9061f57faca6d1f8eb73fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2724451372dc51ab555bb4475304909d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2724451372dc51ab555bb4475304909d/AndroidManifest.xml:5:5-44
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/89c489eb6a1f19fea6384f2f2d6ba1a8/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:10:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/89b5613d7c3bb8e2401114f91c713416/AndroidManifest.xml:16:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/6afdbc3a57cbdaf490a635efe4fa1fa2/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/882649d7e16769f8ea4efb630c024073/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/b7fdf5cf05d88eab84450bfb4fe05592/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/1ad64878513fea454545860e28fd1ad1/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/c3a658cbef416167ce831eda1bdaa043/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/fe939504a9c0af27eec0a78897cda14c/AndroidManifest.xml:24:13-58

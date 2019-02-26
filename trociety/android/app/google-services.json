@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "244693699857",
+    "firebase_url": "https://trociety-db.firebaseio.com",
+    "project_id": "trociety-db",
+    "storage_bucket": "trociety-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244693699857:android:17a6d6f078ab18ac",
+        "android_client_info": {
+          "package_name": "com.captiosus.trociety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244693699857-h9en7t4alp1l3dprl2lenubd5cu1rdhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captiosus.trociety",
+            "certificate_hash": "6bfb40008a4dcfea81261c521b6cd62cf3061a0c"
+          }
+        },
+        {
+          "client_id": "244693699857-tuevg706048hdl726e6hafi56g7il39s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1aaNtglD0AFoPaecUzE2Pt1lhkeAGuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244693699857-tuevg706048hdl726e6hafi56g7il39s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244693699857-3gcglrdtqospme4ql4r7vg6gmj32hcl6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.captiosus.trociety"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

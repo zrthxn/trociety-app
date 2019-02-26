@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

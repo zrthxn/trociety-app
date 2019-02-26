@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    }
+]

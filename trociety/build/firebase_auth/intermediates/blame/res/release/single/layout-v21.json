@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

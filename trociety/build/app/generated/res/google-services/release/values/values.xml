@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">244693699857-tuevg706048hdl726e6hafi56g7il39s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://trociety-db.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">244693699857</string>
+    <string name="google_api_key" translatable="false">AIzaSyDS1aaNtglD0AFoPaecUzE2Pt1lhkeAGuY</string>
+    <string name="google_app_id" translatable="false">1:244693699857:android:17a6d6f078ab18ac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDS1aaNtglD0AFoPaecUzE2Pt1lhkeAGuY</string>
+    <string name="google_storage_bucket" translatable="false">trociety-db.appspot.com</string>
+    <string name="project_id" translatable="false">trociety-db</string>
+</resources>

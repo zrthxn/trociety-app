@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]
