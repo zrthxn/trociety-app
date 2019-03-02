@@ -1,6 +1,8 @@
+import 'package:flutter/material.dart';
+
 class Society {
-  String name;
+  String ref;
   String sid;
 
-  Society({this.name,this.sid});
+  Society({@required this.ref,@required this.sid});
 }

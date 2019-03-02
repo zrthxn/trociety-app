@@ -6,6 +6,7 @@ import '../widgets/vehicle_card.dart';
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    ///////////////UPDATE THE MODEL SCOIETY FOR THE USER FIRST
     return Scaffold(
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.edit),

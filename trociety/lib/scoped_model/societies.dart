@@ -7,4 +7,10 @@ import 'dart:async';
 
 mixin SocietiesModel on Model {
   Society society;
+
+  void initSocietyData ({String sid,String ref}){
+    society =Society(ref: ref,sid: sid);
+
+  }
+
 }

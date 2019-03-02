@@ -3,10 +3,12 @@ import 'package:scoped_model/scoped_model.dart';
 import '../scoped_model/main.dart';
 import './home_page.dart';
 import 'package:flutter_signin_button/flutter_signin_button.dart';
-import '../pages/society_selector_page.dart';
-import 'package:flutter/cupertino.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
+import 'package:flutter/cupertino.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import './complete_profile_page.dart';
 
 class AuthPage extends StatefulWidget {
   FirebaseUser firebaseAuth;
@@ -28,16 +30,39 @@ class _AuthPageState extends State<AuthPage> {
           height: MediaQuery.of(context).size.height * 0.08,
           child: ScopedModelDescendant(
             builder: (BuildContext context, Widget child, MainModel model) {
+              //print(model.society.sid);
               return SignInButton(
                 Buttons.Google,
-                onPressed: () => model.signIn().then((FirebaseUser user) {
-                      print(user);
-                      Navigator.pushReplacement(
+                onPressed: () =>
+                    model.signIn().then((GoogleSignInAccount user) {
+                      print(user.email);
+
+                      Firestore.instance
+                          .collection("users")
+                          .document(model.society.ref)
+                          .collection("residents")
+                          .where("email", isEqualTo: user.email.toLowerCase())
+                          .getDocuments()
+                          .then((userSnapshot) {
+                        print(userSnapshot.documents[0].data);
+                        if (userSnapshot.documents[0].data["isValidated"]) {
+                          Navigator.pushReplacement(
+                            context,
+                            MaterialPageRoute(builder: (BuildContext context) {
+                              //add to scoped model
+                              return HomePage();
+                            }),
+                          );
+                        } else {
+                          Navigator.pushReplacement(
                         context,
                         MaterialPageRoute(builder: (BuildContext context) {
-                          return HomePage();
+
+                          return CompleteProfilePage(email:user.email,societyRef: model.society.ref,);
                         }),
                       );
+                        }
+                      });
                     }).catchError((e) => print(e)),
               );
             },
