@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

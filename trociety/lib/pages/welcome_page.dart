@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
-import './home_page.dart';
+import './society_selector_page.dart';
 //TO BE BUILT
 class WelcomePage extends StatelessWidget {
   @override
@@ -9,11 +9,12 @@ class WelcomePage extends StatelessWidget {
     return SplashScreen(
       backgroundColor: Colors.blue[100],
       seconds: 3,
-      photoSize: 125.0,
+      loadingText: Text("Loading.."),
       title: Text(
         "Trociety",
-      ),
-      navigateAfterSeconds: HomePage(),
+      textScaleFactor: 1.2,),
+      loaderColor: Colors.white,
+      navigateAfterSeconds: SocietySelectorPage(),
     );
   }
 }

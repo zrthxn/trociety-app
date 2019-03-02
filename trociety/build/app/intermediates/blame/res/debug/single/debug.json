@@ -1,350 +1,350 @@
 [
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-auth-16.0.1.aar\\1679cc25a2a54ee3fe0a93872d79b209\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_action.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_media_action.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-auth-16.0.1.aar\\1679cc25a2a54ee3fe0a93872d79b209\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_lines_media.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_bg_low.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-v21/notification_action_background.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_media_cancel_action.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-auth-16.0.1.aar\\1679cc25a2a54ee3fe0a93872d79b209\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media_custom.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_bg.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_light.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/color/common_google_signin_btn_tint.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout/notification_template_part_chronometer.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_icon_background.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout/notification_template_part_time.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable/notification_tile_bg.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_media_custom.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/b1ec96d2f8a1e1ab1649d5bdc02c7752/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_media.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
-        "source": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/res/drawable/launch_background.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     }
 ]

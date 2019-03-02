@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import './pages/society_selector_page.dart';
+import './pages/welcome_page.dart';
 import 'package:scoped_model/scoped_model.dart';
 import './scoped_model/main.dart';
 import './pages/auth_page.dart';
@@ -19,7 +18,7 @@ class MyApp extends StatelessWidget {
         title: "Trociety",
         //home: SocietySelectorPage(),
         routes: {
-          "/": (BuildContext context)=>SocietySelectorPage(),
+          "/": (BuildContext context)=>WelcomePage(),
           "/auth" : (BuildContext context)=>AuthPage(),
         },
       ),

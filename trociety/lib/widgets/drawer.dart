@@ -92,7 +92,7 @@ class MyDrawer extends StatelessWidget {
                 return ListTile(
                   title: Text("Logout"),
                   onTap: () => model.signOut().then((_) {
-                        return Navigator.pushReplacementNamed(context, "/auth");
+                        return Navigator.pushReplacementNamed(context, "/");
                       }),
                 );
               },
