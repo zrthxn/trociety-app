@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
 import './society_selector_page.dart';
+
 //TO BE BUILT
 class WelcomePage extends StatelessWidget {
   @override
@@ -12,7 +13,8 @@ class WelcomePage extends StatelessWidget {
       loadingText: Text("Loading.."),
       title: Text(
         "Trociety",
-      textScaleFactor: 1.2,),
+        textScaleFactor: 1.2,
+      ),
       loaderColor: Colors.white,
       navigateAfterSeconds: SocietySelectorPage(),
     );

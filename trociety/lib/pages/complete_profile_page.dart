@@ -3,15 +3,32 @@ import 'package:scoped_model/scoped_model.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import '../scoped_model/main.dart';
 import 'home_page.dart';
+import 'package:intl/intl.dart';
+import './loggin_in_page.dart';
+import 'package:datetime_picker_formfield/datetime_picker_formfield.dart';
 
-class CompleteProfilePage extends StatelessWidget {
-  String name;
+class CompleteProfilePage extends StatefulWidget {
   String email;
-  String contactNumber;
-  String ss;
   String societyRef;
 
   CompleteProfilePage({this.email, this.societyRef});
+
+  @override
+  _CompleteProfilePageState createState() => _CompleteProfilePageState();
+}
+
+class _CompleteProfilePageState extends State<CompleteProfilePage> {
+  String name;
+
+  final formats = {
+    InputType.time: DateFormat("HH:mm"),
+  };
+
+  String contactNumber;
+
+  String officeAddress;
+
+  DateTime departureTime = DateTime.now();
 
   @override
   Widget build(BuildContext context) {
@@ -29,7 +46,9 @@ class CompleteProfilePage extends StatelessWidget {
                   hintText: "Name",
                 ),
                 onChanged: (String s) {
-                  name = s;
+                  setState(() {
+                    name = s;
+                  });
                 },
               ),
               TextField(
@@ -37,15 +56,9 @@ class CompleteProfilePage extends StatelessWidget {
                   hintText: "Contact",
                 ),
                 onChanged: (String s) {
-                  contactNumber = s;
-                },
-              ),
-              TextField(
-                decoration: InputDecoration(
-                  hintText: "Something else maybe",
-                ),
-                onChanged: (String s) {
-                  ss = s;
+                  setState(() {
+                    contactNumber = s;
+                  });
                 },
               ),
               ScopedModelDescendant<MainModel>(
@@ -57,26 +70,31 @@ class CompleteProfilePage extends StatelessWidget {
                           .collection("users")
                           .document(model.society.ref)
                           .collection("residents")
-                          .where("email", isEqualTo: email.toLowerCase())
+                          .where("email", isEqualTo: widget.email.toLowerCase())
                           .getDocuments()
                           .then(
                         (userSnapshot) {
+                          print("Reaching here");
                           Firestore.instance
                               .collection("users")
                               .document(model.society.ref)
                               .collection("residents")
                               .document(userSnapshot.documents[0].documentID)
                               .setData({
+                            'uid': userSnapshot.documents[0].documentID,
                             "isValidated": true,
                             "name": name,
                             "contactNumber": contactNumber,
-                            "email": email,
-                            "societyRef": societyRef
-                          }).then((s) {
+                            "email": widget.email,
+                            "societyRef": widget.societyRef,
+                          }).then((s) async {
+                            await model.updateData(
+                                widget.email, model.society.ref);
+
                             Navigator.pushReplacement(context,
                                 MaterialPageRoute(
                                     builder: (BuildContext context) {
-                              return HomePage();
+                              return LoggingInPage();
                             }));
                           });
                         },

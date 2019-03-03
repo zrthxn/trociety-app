@@ -1,7 +1,7 @@
-#Tue Feb 26 06:01:37 IST 2019
-base.0=/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/dex/release/mergeDexRelease/out
+#Sun Mar 03 09:15:36 IST 2019
+base.0=D\:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/app/intermediates/dex/release/mergeDexRelease/out
+base.1=D\:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0

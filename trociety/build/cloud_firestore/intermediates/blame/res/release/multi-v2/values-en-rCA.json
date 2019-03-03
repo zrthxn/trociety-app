@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,58 +1,58 @@
 [
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_media_cancel_action.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_media_action.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_media_action.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_lines_media.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout/notification_template_icon_group.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_big_media_custom.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_media.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_media.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_action.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout/notification_action.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout/notification_template_part_chronometer.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_part_time.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout/notification_template_part_time.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\465802f5882d0b65b2c23e6eb6252eba\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/39ee304a141b0358073d611be22723e4/res/layout/notification_action_tombstone.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b5ca2a51c985ca5d79846e59824f11db/res/layout/notification_template_media_custom.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\9871bc06a3cdda7f25ecb3356827e3c4\\res\\layout\\notification_template_media_custom.xml"
     }
 ]

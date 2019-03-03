@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\google_sign_in\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/color/common_google_signin_btn_tint.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\google_sign_in\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/daniyal/Desktop/Flutter/trociety-app/trociety/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
-        "source": "/home/daniyal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5746b1bd99e6bf872fca3d9f97c6393c/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\google_sign_in\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\118fc73fb2e859c43ad96cfc48d0b187\\res\\color\\common_google_signin_btn_text_light.xml"
     }
 ]

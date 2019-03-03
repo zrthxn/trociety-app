@@ -19,7 +19,9 @@ dependencies:
   google_sign_in: 
   firebase_core: 
   cloud_firestore: 
-  firebase_auth: 
+  firebase_auth:
+  fluttertoast: 
+  firebase_messaging: 3.0.1
   
   http:
   flutter:

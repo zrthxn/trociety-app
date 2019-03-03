@@ -4,6 +4,23 @@
             "outputFile": "D:\\flutter_projects\\trociety-app\\trociety-app\\trociety\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-messaging-17.3.3.aar\\e5ecf39a14cc7f20630c9a5771448dba\\res\\values-or\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "102",
+                        "endOffsets": "307"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2883",
+                        "endColumns": "106",
+                        "endOffsets": "2985"
+                    }
+                },
+                {
                     "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.1.0.aar\\a617cee617be720e026cf57c8a06bfe5\\res\\values-or\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -47,11 +64,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "20",
+                        "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "2883",
+                        "startOffsets": "2990",
                         "endColumns": "100",
-                        "endOffsets": "2979"
+                        "endOffsets": "3086"
                     }
                 }
             ]

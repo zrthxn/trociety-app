@@ -1,0 +1,76 @@
+if (widget.email != null) {
+          Firestore.instance
+              .collection("users")
+              .document(model.society.ref)
+              .collection("residents")
+              .where("email", isEqualTo: widget.email.toLowerCase())
+              .getDocuments()
+              .then(
+            (userSnapshot) {
+              //print(userSnapshot.documents[0].data);
+              Map<String, dynamic> a = userSnapshot.documents[0].data;
+              //Get user vehicles
+
+              Firestore.instance
+                  .collection("vehicles")
+                  .where("ownerUID", isEqualTo: a["uid"])
+                  .getDocuments()
+                  .then(
+                (vehicleSnapshot) {
+                  //print(vehicleSnapshot.documents[0].data);
+
+                  vehicleSnapshot.documents.forEach((item) {
+                    Vehicle ad = new Vehicle(
+                        carName: item.data["name"],
+                        isInside: item.data["isInside"],
+                        numberPlate: item.data["numberPlate"],
+                        type: item.data["type"]);
+
+                    listVehicle.add(ad);
+                  });
+                  // print(listVehicle[0]);
+                  // print(listVehicle[0]);
+                },
+              );
+              //Get user Guestvehicles
+              Firestore.instance
+                  .collection("guestVehicles")
+                  .where("hostUID", isEqualTo: a["uid"])
+                  .getDocuments()
+                  .then(
+                (guestVehicleSnapshot) {
+                  //print(guestVehicleSnapshot.documents[0].data);
+
+                  guestVehicleSnapshot.documents.forEach(
+                    (item) {
+                      GuestVehicle asd = new GuestVehicle(
+                          ownerName: item.data["name"],
+                          incoming:
+                              DateTime.parse(item.data['entryTime'].toString()),
+                          outgoing:
+                              DateTime.parse(item.data['exitTime'].toString()),
+                          isInside: item.data["isInside"],
+                          numberPlate: item.data["numberPlate"],
+                          type: item.data["type"]);
+
+                      guestListVehicle= List<GuestVehicle> ();
+                    },
+                  );
+                },
+              );
+              //
+              model.initAppUser(
+                  contactNo: a["contactNumber"],
+                  email: widget.email,
+                  name: a["name"],
+                  houseNo: a["address"],
+                  uid: a["uid"] != null ? a["uid"] : "",
+                  houseCar: listVehicle,
+                  guestCars: guestListVehicle);
+            },
+          );
+          print("INIT DONE");
+//          print(model.appUser.houseCars[0].carName);
+        } else {
+          print("Else working");
+        }

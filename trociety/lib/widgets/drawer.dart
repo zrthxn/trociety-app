@@ -5,9 +5,10 @@ import '../scoped_model/main.dart';
 import 'package:scoped_model/scoped_model.dart';
 import '../pages/auth_page.dart';
 import '../pages/edit_vehicles_page.dart';
-import '../pages/community_service_page.dart';
+import '../pages/car_pool.dart';
 import '../pages/vehicle_log_page.dart';
 import 'package:flutter/cupertino.dart';
+import '../pages/search_vehicle_page.dart';
 
 class MyDrawer extends StatelessWidget {
   @override
@@ -34,19 +35,19 @@ class MyDrawer extends StatelessWidget {
               );
             },
           ),
-          ListTile(
-            title: Text("Edit My Vehicle(s)"),
-            onTap: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (BuildContext context) {
-                    return EditVehiclesPage();
-                  },
-                ),
-              );
-            },
-          ),
+          // ListTile(
+          //   title: Text("Edit My Vehicle(s)"),
+          //   onTap: () {
+          //     Navigator.push(
+          //       context,
+          //       MaterialPageRoute(
+          //         builder: (BuildContext context) {
+          //           return EditVehiclesPage();
+          //         },
+          //       ),
+          //     );
+          //   },
+          // ),
           ListTile(
             title: Text("Add Guest Vehicle"),
             onTap: () {
@@ -61,13 +62,13 @@ class MyDrawer extends StatelessWidget {
             },
           ),
           ListTile(
-            title: Text("Community Services"),
+            title: Text("Car Pool"),
             onTap: () {
               Navigator.push(
                 context,
                 MaterialPageRoute(
                   builder: (BuildContext context) {
-                    return CommunityService();
+                    return CarPool();
                   },
                 ),
               );
@@ -81,6 +82,19 @@ class MyDrawer extends StatelessWidget {
                 MaterialPageRoute(
                   builder: (BuildContext context) {
                     return VehicleLog();
+                  },
+                ),
+              );
+            },
+          ),
+          ListTile(
+            title: Text("Search"),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (BuildContext context) {
+                    return SearchVehiclePage();
                   },
                 ),
               );

@@ -10,6 +10,7 @@ mixin SocietiesModel on Model {
 
   void initSocietyData ({String sid,String ref}){
     society =Society(ref: ref,sid: sid);
+    notifyListeners();
 
   }
 

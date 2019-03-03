@@ -3813,6 +3813,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 --------------------------------------------------------------------------------
 firebase_auth
 firebase_core
+firebase_messaging
 
 // Copyright 2017 The Chromium Authors. All rights reserved.
 //
@@ -9447,6 +9448,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 pedantic
+platform
 term_glyph
 
 Copyright 2017, the Dart project authors. All rights reserved.

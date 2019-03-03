@@ -9,6 +9,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import './complete_profile_page.dart';
+import './loggin_in_page.dart';
 
 class AuthPage extends StatefulWidget {
   FirebaseUser firebaseAuth;
@@ -44,23 +45,40 @@ class _AuthPageState extends State<AuthPage> {
                           .where("email", isEqualTo: user.email.toLowerCase())
                           .getDocuments()
                           .then((userSnapshot) {
-                        print(userSnapshot.documents[0].data);
-                        if (userSnapshot.documents[0].data["isValidated"]) {
-                          Navigator.pushReplacement(
-                            context,
-                            MaterialPageRoute(builder: (BuildContext context) {
-                              //add to scoped model
-                              return HomePage();
-                            }),
-                          );
+                        // print(userSnapshot.documents[0].data);
+                        if (userSnapshot.documents.length == 0) {
+                          print("if running");
+                          showDialog(
+                              context: context,
+                              builder: (context) {
+                                return AlertDialog(
+                                  title: Text("User not found"),
+                                  content: Text("Recheck your account"),
+                                );
+                              });
                         } else {
-                          Navigator.pushReplacement(
-                        context,
-                        MaterialPageRoute(builder: (BuildContext context) {
+                          if (userSnapshot.documents[0].data["isValidated"]) {
+                            model.updateData(user.email, model.society.ref);
 
-                          return CompleteProfilePage(email:user.email,societyRef: model.society.ref,);
-                        }),
-                      );
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (BuildContext context) {
+                                return LoggingInPage();
+                              }),
+                            );
+                          } else {
+                            Navigator.pushReplacement(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (BuildContext context) {
+                                return CompleteProfilePage(
+                                  email: user.email,
+                                  societyRef: model.society.ref,
+                                );
+                              }),
+                            );
+                          }
                         }
                       });
                     }).catchError((e) => print(e)),
